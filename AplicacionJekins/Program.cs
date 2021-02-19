@@ -11,6 +11,7 @@ namespace AplicacionJekins
             Console.WriteLine("Digite el primer numero");
             int b = int.Parse(Console.ReadLine());
             Console.WriteLine("La suma es : " + suma(a,b) + "Si es 0 es por que algo hizo mal");
+            Console.WriteLine("Digite el primer numero");
         }
 
         public  static int suma(int valor1, int valor2)
