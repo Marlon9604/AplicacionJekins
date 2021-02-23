@@ -5,6 +5,7 @@ namespace Pruebasunitarias
     [TestClass]
     public class UnitTest1
     {
+        [TestCategory("Critical")]
         [TestMethod]
         public void SumaIncorrecta()
         {
@@ -12,6 +13,7 @@ namespace Pruebasunitarias
             Assert.AreEqual(result,0);
         }
 
+        [TestCategory("Critical")]
         [TestMethod]
         public void Sumacorrecta()
         {
