@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicacionJekins", "AplicacionJekins\AplicacionJekins.csproj", "{C04067B9-24DA-4DC1-8C5F-03F16F073CEB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebasunitariasTest.Test", "Pruebasunitarias\PruebasunitariasTest.Test.csproj", "{1DD2B44E-2A8F-4E59-92D4-CA6F4DE4F037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest.Test", "Pruebasunitarias\UnitTest.Test.csproj", "{1DD2B44E-2A8F-4E59-92D4-CA6F4DE4F037}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
