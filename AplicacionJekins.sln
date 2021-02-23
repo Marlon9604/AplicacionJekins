@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionJekins", "AplicacionJekins\AplicacionJekins.csproj", "{C04067B9-24DA-4DC1-8C5F-03F16F073CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicacionJekins", "AplicacionJekins\AplicacionJekins.csproj", "{C04067B9-24DA-4DC1-8C5F-03F16F073CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebasunitarias", "Pruebasunitarias\Pruebasunitarias.csproj", "{1DD2B44E-2A8F-4E59-92D4-CA6F4DE4F037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebasunitariasTest", "Pruebasunitarias\PruebasunitariasTest.csproj", "{1DD2B44E-2A8F-4E59-92D4-CA6F4DE4F037}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
